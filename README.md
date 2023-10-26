@@ -1,7 +1,7 @@
 ## SemiSupervisedNCC
 This formulation extends the fully unsupervised Normalized Cut Clustering (NCC) approach to the framework of semi-supervised clustering (SSNCC). That is when prior knowledge about the labels is available. Also, SSNCC reduces itself to the conventional NCC approach when no prior knowledge is available.
 
-This code was used in the experiments provided by the following preprint:
+This code was used in the experiments provided by the following preprint:\\
 #Title: Semi-supervised NCC: Introducing Prior Knowledge to Normalized Cut Clustering
 Implementation of the SSNCC (Semi-Supervised Normalized Cut Clustering) algorithm in Python.
 Author: Yahya Aalaila, Sami Bamansour, Mouad Elhamdi and Diego Peluffo.
